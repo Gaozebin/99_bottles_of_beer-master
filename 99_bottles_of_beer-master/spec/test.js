@@ -1,4 +1,4 @@
-var test = require("../main/1");
+var test = require("../main/main");
 
 describe("test", function () {
     let result = "99 bottles of beer on the wall, 99 bottles of beer.\n" +
